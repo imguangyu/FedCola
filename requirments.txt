@@ -1,0 +1,16 @@
+torch==2.0.0
+torchaudio==2.0.1
+torchvision==0.15.1
+torchtext==0.15.1
+tqdm
+wandb
+numpy
+pandas
+scikit-learn
+transformers==4.23.0
+einops
+ml_collections
+timm==0.9.12
+pycocotools==2.0.6
+ujson
+medmnist

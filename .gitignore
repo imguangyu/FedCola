@@ -1,0 +1,37 @@
+# cache
+__pycache__
+*.pyc
+.vscode
+
+# data
+data
+dataset
+*.zip
+*.gz
+chestxray
+# log
+logs
+log
+wandb
+*.pt
+checkpoints
+*.npy
+result
+features
+
+# test files
+misc
+test.ipynb
+*.ipynb
+miscs
+utils
+debug
+
+#utils
+gdrive
+
+# plots
+*.pdf
+*.png
+*.svg
+*.csv
